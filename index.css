@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background-color:#B4EC9A;
+    font-family: Verdana, Tahoma, sans-serif;
+  }
+  main {
+    padding: 0 150px;
+  }
+  h1 {
+    font-size: 70px;
+    color: #52b367;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Verdana, sans-serif;
+    padding-top: 50px;
+  }
+  h4 {
+    font-size: 40px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Verdana, sans-serif;
+    padding-top: 20px;
+  }
+  #result {
+    font-size: 20px;
+    color: grey;
+  }
